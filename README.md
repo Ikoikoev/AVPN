@@ -1,8 +1,8 @@
 # 🛡️ A-VPN CLIENT for Android 
 
-[![OS - Android 9+](https://img.shields.io/badge/OS-Android%209%2B-008080.svg?style=for-the-badge&logo=android&logoColor=white)](https://vpn.armadko.ru/downloads/avpn-android.apk)
-[![Status - Stable](https://img.shields.io/badge/Status-Stable-blue.svg?style=for-the-badge)](https://vpn.armadko.ru/downloads/avpn-android.apk)
-[![Plan - Free & Paid](https://img.shields.io/badge/Plan-Free%20%26%20Paid-orange.svg?style=for-the-badge)](https://vpn.armadko.ru/downloads/avpn-android.apk)
+[![OS - Android 9+](https://img.shields.io/badge/OS-Android%209%2B-008080.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com)
+[![Status - Stable](https://img.shields.io/badge/Status-Stable-blue.svg?style=for-the-badge)](https://github.com)
+[![Plan - Free & Paid](https://img.shields.io/badge/Plan-Free%20%26%20Paid-orange.svg?style=for-the-badge)](https://github.com)
 
 <p align="center">
   <img src="https://github.com/Ikoikoev/AVPN/blob/main/banner.png" alt="A-VPN CLIENT Banner" width="100%">
@@ -38,8 +38,17 @@
 
 ## 📥 Как скачать и установить?
 
-### Вариант 1. Прямая ссылка (для Android 9+)
-Нажмите на кнопку ниже, чтобы скачать APK-файл последней стабильной версии:
+### Вариант 1. Через раздел GitHub Releases (Рекомендуется)
+Перейдите на страницу последнего релиза и скачайте установочный `.apk` файл из блока **Assets**:
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Скачать из GitHub Releases" height="50">
+  </a>
+</p>
+
+### Вариант 2. Прямая ссылка (для Android 9+)
+Нажмите на кнопку ниже, чтобы скачать APK-файл последней стабильной версии напрямую с нашего сервера:
 
 <p align="center">
   <a href="https://vpn.armadko.ru/downloads/avpn-android.apk">
@@ -47,7 +56,7 @@
   </a>
 </p>
 
-### Вариант 2. Сканирование через QR-код
+### Вариант 3. Сканирование через QR-код
 Просто наведите камеру смартфона на QR-код, чтобы мгновенно начать загрузку официального APK-файла:
 
 <p align="center">
