@@ -5,7 +5,7 @@
 [![Plan - Free & Paid](https://img.shields.io/badge/Plan-Free%20%26%20Paid-orange.svg?style=for-the-badge)](https://vpn.armadko.ru/downloads/avpn-android.apk)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ваш_логин/ваш_репозиторий/main/banner.png" alt="A-VPN CLIENT Banner" width="100%">
+  <img src="https://github.com/Ikoikoev/AVPN/blob/main/banner.png" alt="A-VPN CLIENT Banner" width="100%">
 </p>
 
 **A-VPN CLIENT** — это быстрый, стабильный и безопасный VPN-клиент, созданный специально для устройств на базе Android 9 и выше. 
