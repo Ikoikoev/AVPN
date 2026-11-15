@@ -51,7 +51,7 @@
 Просто наведите камеру смартфона на QR-код, чтобы мгновенно начать загрузку официального APK-файла:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ваш_логин/ваш_репозиторий/main/qr-code.png" width="250" alt="Сканируйте для загрузки A-VPN">
+  <img src="https://github.com/Ikoikoev/AVPN/blob/main/qr.png" width="250" alt="Сканируйте для загрузки A-VPN">
 </p>
 
 *Официальная ссылка для скачивания:* `https://vpn.armadko.ru/downloads/avpn-android.apk`
