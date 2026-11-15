@@ -42,7 +42,7 @@
 Перейдите на страницу последнего релиза и скачайте установочный `.apk` файл из блока **Assets**:
 
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/Ikoikoev/AVPN/releases">
     <img src="https://shields.io" alt="Скачать из GitHub Releases" height="50">
   </a>
 </p>
