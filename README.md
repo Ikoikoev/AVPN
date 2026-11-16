@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Ikoikoev/AVPN/releases">
-    <img src="[https://shields.io](https://img.shields.io/badge/_Releases.APK-008080?style=for-the-badge&logo=android&logoColor=white)" alt="Скачать из GitHub Releases" height="50">
+    <img src="[https://shields.io](https://img.shields.io/badge/_Releases.APK-008080?style=for-the-badge&logo=android&logoColor=white)" alt="Скачать из GitHub Releases" alt="Скачать A-VPN" height="50">
   </a>
 </p>
 
